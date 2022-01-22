@@ -1,0 +1,29 @@
+/* navbar  */
+
+.Logo a {
+    text-decoration: none;
+    color: #24325d;
+    font-size: 28px;
+}
+
+.Menuul li a {
+    padding: 10px 0 10px 30px;
+    font-family: sans-serif;
+    color: #24325d;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.dropdown-toggle::after {
+    color: #fff;
+}
+
+
+/* navbar  end */
+
+
+/* slider   */
+
+
+/* slider  end  */
