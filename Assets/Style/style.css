@@ -52,3 +52,49 @@
 
 
 /* slider  end  */
+
+
+/* about */
+
+.abouttxt {
+    color: #444444;
+    font-size: 16px;
+}
+
+.abouttitle {
+    text-align: center;
+    color: #444444;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.aboutheadtxt {
+    text-align: center;
+    color: #444444;
+}
+
+.aboutul {
+    list-style: none;
+    margin-left: -40px;
+}
+
+.aboutul li i {
+    font-size: 14px;
+    color: #006fbe;
+    margin-right: 7px;
+}
+
+.btn-learn-more {
+    border: 2px solid #006fbe;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #006fbe;
+}
+
+.btn-learn-more:hover {
+    background-color: #006fbe;
+    color: #fff;
+}
+
+
+/* about end */
