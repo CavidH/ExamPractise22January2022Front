@@ -1,9 +1,16 @@
 /* navbar  */
 
+#Navbar {
+    background-color: #fff;
+    box-shadow: 0px 2px 15px rgb(36 50 93 / 6%);
+    padding: 4px 0;
+}
+
 .Logo a {
     text-decoration: none;
     color: #24325d;
     font-size: 28px;
+    font-weight: 500;
 }
 
 .Menuul li a {
@@ -15,8 +22,16 @@
     font-weight: 500;
 }
 
+.Menuul li a:hover {
+    color: #006fbe;
+}
+
 .dropdown-toggle::after {
-    color: #fff;
+    color: #35405f;
+}
+
+.first a {
+    color: #006fbe !important;
 }
 
 
@@ -24,6 +39,16 @@
 
 
 /* slider   */
+
+.carousel-item {
+    height: 70%;
+}
+
+
+/* 
+.carousel-indicators li {
+    border-radius: 50% !important;
+} */
 
 
 /* slider  end  */
